@@ -123,3 +123,8 @@ Total: Subtotal minus discount plus tax.
 
 
 Bill Summary: Uses Counter from the collections module to group items by quantity and display the final bill.
+
+
+## License
+
+[MIT License](License)
